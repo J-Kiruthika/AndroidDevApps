@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky Draw</string>
+    <string name="roll">roll</string>
+    <string name="diceimage">diceImage</string>
+    <string name="dice2">dice2</string>
+    <string name="lets_find_the_fortune">Lets find the fortune</string>
+</resources>
